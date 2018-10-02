@@ -21,7 +21,7 @@ Returns the `CFBundleShortVersionString` and the `CFBundleVersion` and `bundleId
 
 Install the package
 
-`$ yarn add react-native-version-number`
+`$ yarn add https://github.com/ConnectedHomes/react-native-version-number.git`
 
 Link
 
